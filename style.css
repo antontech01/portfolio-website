@@ -1,4 +1,9 @@
 body{
     background: grey;
+    font-size: 2rem;
+}
+
+.blue{
+    background: burlywood;
 }
 
