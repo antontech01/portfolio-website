@@ -1,9 +1,39 @@
 body{
-    background: grey;
-    font-size: 2rem;
+    font-size: 25px;
+    height: 100%;
+    background-color: #02172d;
+    margin: 30px;
+    padding: 0px;
 }
 
 .blue{
-    background: burlywood;
+    border: 1rem;
+    border-radius: 0.5rem;
+    padding: 5px 5px 5px 20px;
+    align-content: center;
+    color: whitesmoke;
+
+}
+
+#container{
+    width: 100%;
+    align-content: center;
+    height: auto;
+    margin: 20px auto;
+}
+
+nav{
+    float:right;
+}
+
+.clear {
+    float: none;
+}
+.about{
+    margin-top: 100px;
+    padding: 15px;
+    width: 500px;
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
 }
 
